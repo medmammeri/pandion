@@ -1,5 +1,8 @@
-scripts
-venv
+scripts/
+venv/
 .tox
 .pytest_cache
 .mypy_cache
+.coverage
+.idea/
+*.egg-info/
