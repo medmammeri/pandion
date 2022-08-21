@@ -1,0 +1,15 @@
+LICENSE
+MANIFEST.in
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+pandion/__init__.py
+pandion/settings.py
+pandion/utils.py
+pandion.egg-info/PKG-INFO
+pandion.egg-info/SOURCES.txt
+pandion.egg-info/dependency_links.txt
+pandion.egg-info/not-zip-safe
+pandion.egg-info/requires.txt
+pandion.egg-info/top_level.txt
